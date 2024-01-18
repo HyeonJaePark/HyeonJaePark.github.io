@@ -95,8 +95,8 @@ comments:
   giscus:
     repo: HyeonJaePark/HyeonJaePark.github.io # <gh-username>/<repo>
     repo_id: R_kgDOLFGYag
-    category: Announcement
-    category_id: DIC_kwDOLFGYas4CchkL
+    category: Comments
+    category_id: DIC_kwDOLFGYas4CchlT
     mapping: pathname # optional, default to 'pathname'
     input_position: # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
