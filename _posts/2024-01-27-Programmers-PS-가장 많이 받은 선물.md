@@ -3,7 +3,7 @@ title: 프로그래머스 PS 가장 많이 받은 선물
 author: HyeonJaePark
 date: 2024-01-27
 categories: [Problem Solving, 2024 카카오 인턴쉽, Programmers PS]
-tags: [MYSQL, 프로그래머스 SQL, 2024 Kakao Internship, 2024 카카오 코테]
+tags: [코딩테스트, 프로그래머스 PS, 2024 Kakao Internship, 2024 카카오 코테]
 math: true
 mermaid: true
 render_with_liquid: false
